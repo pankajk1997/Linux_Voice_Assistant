@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 sensible-browser 'https://voicenotebook.com/?autostart=1&pagelang=en-US&chkinteg=1&chkbufer=1&vid=1' &
 CLIP_FILE=clipfile.txt;
 echo "Voice Assistance Started -Panky" > $CLIP_FILE;
